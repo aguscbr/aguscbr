@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ramiro%20Cabrera&textBg=true" alt="Header image" />
+
 ### 🖖 Hola, soy Ramiro Agustin Cabrera
 --- 
 
