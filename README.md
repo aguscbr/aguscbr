@@ -5,10 +5,9 @@
 
 Soy un desarrollador web Fullstack con experiencia en desarrollar código limpio, bien estructurado y escalable para asegurar la mejor calidad. Soy un apasionado del aprendizaje, lo que más disfruto es aprender y aplicar conocimientos nuevos para crear soluciones eficientes a problemas reales o para aplicarlos en la optimización de procesos.
 
-<div style="display:flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=aguscbr&show_icons=true&theme=dracula" alt="Aguscbr's Github stats" style="margin-right: 15px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguscbr&stats_format=bytes&theme=dracula" alt="Top Langs" />
-</div>
+![Aguscbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguscbr&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguscbr&stats_format=bytes&theme=dracula)
 
 ---
 
